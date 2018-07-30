@@ -1,2 +1,3 @@
 # hello-world
-Hello Wolrd
+Hi Guys!
+  This is my first session on GitHub
